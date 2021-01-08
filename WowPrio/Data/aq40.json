@@ -1,0 +1,13 @@
+﻿{
+  "id": "aq40",
+  "name": "Ahn'Qiraj (AQ 40)",
+  "lootTables": [
+    {
+      "id": "trash",
+      "name": "Trash",
+      "items": [
+        
+      ]
+    }
+  ]  
+}

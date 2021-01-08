@@ -1,0 +1,13 @@
+﻿{
+  "id": "zg",
+  "name": "Zul'Gurub",
+  "lootTables": [
+    {
+      "id": "trash",
+      "name": "Trash",
+      "items": [
+        19716
+      ]
+    }
+  ]
+}

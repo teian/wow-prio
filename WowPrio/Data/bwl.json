@@ -1,0 +1,13 @@
+﻿{
+  "id": "bwl",
+  "name": "Blackwing Lair",
+  "lootTables": [
+    {
+      "id": "trash",
+      "name": "Trash",
+      "items": [
+        
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+﻿{
+  "id": "naxx",
+  "name": "Naxxramas",
+  "lootTables": [
+    {
+      "id": "anub_rekhan",
+      "name": "Anub'Rekhan",
+      "items": {
+        "22726": "Splinter of Atiesh",
+        "22727": "Frame of Atiesh",
+        "22369": "Desecrated Bindings",
+        "22362": "Desecrated Wristguards",
+        "22355": "Desecrated Bracers",
+        "22935": "Touch of Frost",
+        "22938": "Cryptfiend Silk Cloak",
+        "22936": "Wristguards of Vengeance",
+        "22939": "Band of Unanswered Prayers",
+        "22937": "Gem of Nerubis"
+      }
+    },
+    {
+      "id": "trash",
+      "name": "Trash",
+      "items": {
+        "23664": "Pauldrons of Elemental Fury",
+        "23667": "Spaulders of the Grand Crusader",
+        "23069": "Necro-Knight's Garb",
+        "23226": "Ghoul Skin Tunic",
+        "23663": "Girdle of Elemental Fury",
+        "23666": "Belt of the Grand Crusader",
+        "23665": "Leggings of Elemental Fury",
+        "23668": "Leggings of the Grand Crusader",
+        "23237": "Ring of the Eternal Flame",
+        "23238": "Stygian Buckler",
+        "23044": "Harbinger of Doom",
+        "23221": "Misplaced Servo Arm",
+        "22376": "Wartorn Cloth Scrap",
+        "22373": "Wartorn Leather Scrap",
+        "22374": "Wartorn Chain Scrap",
+        "22375": "Wartorn Plate Scrap",
+        "23055": "Word of Thawing",
+        "22682": "Frozen Rune"
+      }
+    }
+  ],
+  "restrictItemToClass": {
+    "22369": ["priest", "mage", "warlock"],
+    "22362": ["paladin", "hunter", "shaman", "druid"],
+    "22355": ["warrior", "rogue"]
+  }
+}

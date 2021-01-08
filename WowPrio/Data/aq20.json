@@ -1,0 +1,13 @@
+﻿{
+  "id": "aq40",
+  "name": "Ruins of Ahn'Qiraj (AQ 20)",
+  "lootTables": [
+    {
+      "id": "trash",
+      "name": "Trash",
+      "items": [
+        
+      ]
+    }
+  ]  
+}

@@ -1,0 +1,13 @@
+﻿{
+  "id": "ony",
+  "name": "Onyxia's Lair",
+  "lootTables": [
+    {
+      "id": "trash",
+      "name": "Trash",
+      "items": [
+        
+      ]
+    }
+  ]
+}

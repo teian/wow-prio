@@ -1,0 +1,13 @@
+﻿{
+  "id": "world",
+  "name": "World",
+  "lootTables": [
+    {
+      "id": "trash",
+      "name": "Trash",
+      "items": [
+        
+      ]
+    }
+  ]
+}

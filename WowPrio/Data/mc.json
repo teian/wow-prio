@@ -1,0 +1,13 @@
+﻿{
+  "id": "mc",
+  "name": "Molten Core",
+  "lootTables": [
+    {
+      "id": "trash",
+      "name": "Trash",
+      "items": [
+        
+      ]
+    }
+  ]
+}
